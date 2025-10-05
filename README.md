@@ -4,8 +4,8 @@ This project is a Sudoku game built with Python using the Pygame library.
 
 ## 📸 Preview
 
-![Sudoku Game Menu](assets/menu.jpg)
-![Sudoku Game UI](assets/game.jpg)
+![Sudoku Game Menu](menu.jpg)
+![Sudoku Game UI](game.jpg)
 
 🎮 Features
 
