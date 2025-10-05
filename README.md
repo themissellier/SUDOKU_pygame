@@ -3,9 +3,10 @@
 This project is a Sudoku game built with Python using the Pygame library.
 
 ## 📸 Preview
-
-![Sudoku Game Menu](menu.jpg)
-![Sudoku Game UI](game.jpg)
+<p align="center">
+  <img src="menu.jpg" alt="Sudoku Game Menu" width="25%">
+  <img src="game.jpg" alt="SUdoku Game in progress" width="25%">
+</p>
 
 🎮 Features
 
