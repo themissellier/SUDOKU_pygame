@@ -24,7 +24,7 @@ Depending on the chosen difficulty, it removes certain numbers to create the puz
 The player can then:
 click on cells or use the arrow keys to move around, input numbers to fill the grid, request hints, track progress with error and hint counters.
 
-🚀 Technologies
+## 🚀 Technologies
 
 Python 3 and
 Pygame
