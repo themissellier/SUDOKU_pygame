@@ -2,6 +2,11 @@
 
 This project is a Sudoku game built with Python using the Pygame library.
 
+## 📸 Preview
+
+![Sudoku Game Menu](assets/menu.jpg)
+![Sudoku Game UI](assets/game.jpg)
+
 🎮 Features
 
 Generates a valid Sudoku grid using a backtracking algorithm.
