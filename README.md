@@ -28,3 +28,6 @@ click on cells or use the arrow keys to move around, input numbers to fill the g
 
 Python 3 and
 Pygame
+
+## 
+Here you can find more of my projects : https://github.com/themissellier/My-projects
